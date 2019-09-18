@@ -1,0 +1,29 @@
+h1.titel {
+	font-size: xx-large;
+	color: white}
+}
+
+h3 { color: blue; }
+
+
+h2 {
+	font-size: x-large;
+	color: red;
+}
+
+h3 {font-size: x-large}
+
+h4 {font-size: x-large}
+
+
+body {background-color: #ADD8E6;}
+
+img {
+	width: 400px;
+}
+
+input {
+	width: 250px;
+	border-radius: 10px;
+}
+label <p> {font-size: x-large;}
